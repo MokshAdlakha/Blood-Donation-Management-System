@@ -76,15 +76,15 @@ SELECT * FROM Blood_Request WHERE status = 'Pending';
 
 ## ✅ Output Preview
 
-Screenshots and demonstration video link (you can upload it to YouTube or Google Drive and add the link here).
+VIDEO SUBMITTED
 
 ---
 
 ## 📌 Author
 
-Created by [Your Name]  
-[Institute Name]  
-DBMS Mini Project - Semester [X]
+Created by Moksh Adlakha  
+Vivekananda Institue of Professional Studies
+DBMS Mini Project - Semester [IV]
 
 ---
 
